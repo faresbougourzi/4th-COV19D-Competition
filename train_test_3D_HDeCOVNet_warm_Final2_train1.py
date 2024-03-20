@@ -30,13 +30,7 @@ from utils.losses import FocalLoss
 from networks import HDeCOVNet 
 import importlib
 
-
-from networks import densenet 
-from networks import pre_act_resnet
 from networks import resnet
-from networks import resnet2p1d
-from networks import resnext
-from networks import wide_resnet
 
 import warnings
 warnings.filterwarnings("ignore")
